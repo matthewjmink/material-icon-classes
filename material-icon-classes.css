@@ -1,3 +1,9 @@
+/**
+ * Material Design Classes
+ * A set of classes to bootstrap the use of Google Material Icons. (https://github.com/matthewjmink/material-icon-classes)
+ * Copyright 2015 Matt Mink (@matthewjmink)
+ * GNU GENERAL PUBLIC LICENSE (https://github.com/matthewjmink/material-icon-classes/blob/master/LICENSE)
+ */
 [class^="md-icon"] {
     font-family: 'Material Icons';
     font-weight: normal;
